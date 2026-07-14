@@ -2,6 +2,11 @@
 // lib/newsData.js
 
 export const newsItems = [
+   {
+    title: ' Fermi Energy has been selected to join Third Derivative, RMI’s global climate tech accelerator ',
+    date: 'May 2026',
+    link: 'https://www.third-derivative.org/blog/third-derivative-unveils-26-startup-climate-cohort-focused-on-hard-tech-and-deployment',
+  },
   {
     title: 'Fermi Energy Receives Grant from New Energy New York to Develop Ni- and Co-free Cathode Active Materials ',
     date: 'Nov 2025',
